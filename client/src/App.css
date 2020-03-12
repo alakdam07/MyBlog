@@ -1,0 +1,38 @@
+body {
+  scroll-behavior: smooth;
+  padding: 0;
+  margin: 0;
+}
+
+.app {
+  padding: 40px 50px 0px 0px;
+}
+
+.text {
+  font-size: 20px;
+}
+
+.btnScrollToTop {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #e62739;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+  color: #ffffff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.btnScrollToTop:active {
+  background: #cc2333;
+}
+
+@media only screen and (max-width: 600px) {
+  .app {
+    display: none;
+  }
+}

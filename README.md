@@ -16,7 +16,7 @@
   - [x] Install dependencies
   - [x] Setup Express App
   - [x] MongoDB setup
-  - [x] Create aata model
+  - [x] Create data model
   - [x] Create REST API
   - [x] Mongoose connection to database
   - [x] Setup concurrently for the run frontend and backend togther

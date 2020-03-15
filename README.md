@@ -8,7 +8,7 @@
 - **Database:** MongoDB and mongoose ODM for connection.
 - **Frontend:** React js.
 - **Designing:** Materializecss
-- **Deployed in Heroku:** https://onlineblog2020.herokuapp.com/.
+- **Deployed in Heroku:** https://onlineblog2020.herokuapp.com/
 
 ## Backlogs
 
